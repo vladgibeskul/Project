@@ -41,8 +41,6 @@ namespace ConsoleApp2
             //Console.WriteLine($"Периметр (целые числа): {perimeterInt}");
             //Console.WriteLine($"Площадь (целые числа): {areaInt}");
 
-
-            // Вещественные числа
             //Console.WriteLine("nВведите длину первой стороны (вещественное число):");
             //double side1Double = Convert.ToDouble(Console.ReadLine());
 
